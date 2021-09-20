@@ -10,7 +10,8 @@
 👉🏻Efficiency<br>
 👉🏻Inexpensive<br>
 👉🏻Security<br>
-
-<img >https://github.com/RahulSoni0/BlockChain/blob/main/Images/Why-Blockchain-is-important.jpg.webp
+<div align="center">
+<img width="100%" height = "400px" src="https://github.com/RahulSoni0/BlockChain/blob/main/Images/Why-Blockchain-is-important.jpg.webp" alt="cover" />
+</div>
 
 
