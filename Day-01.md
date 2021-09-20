@@ -13,7 +13,7 @@ A blockchain is essentially a digital ledger of transactions that is duplicated 
 Blockchain is a type of DLT in which transactions are recorded with an immutable cryptographic signature called a hash.
 
 <div align="center">
-<img width="100%" height = "800px" src="https://github.com/RahulSoni0/BlockChain/blob/main/Images/1*3Clhsacgyb8pmvRJmBYmnQ.jpeg" alt="cover" />
+<img width="100%" height = "600px" src="https://github.com/RahulSoni0/BlockChain/blob/main/Images/1*3Clhsacgyb8pmvRJmBYmnQ.jpeg" alt="cover" />
 </div>
 
 ## Why BlockChain ?
