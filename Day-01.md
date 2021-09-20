@@ -36,7 +36,7 @@ Blockchain is a type of DLT in which transactions are recorded with an immutable
 👉🏻CRYPTOCURRENCY <br>
 Blockchains are the basis of bitcoin and other cryptocurrencies.
 
-👉🏻BANKING
+👉🏻BANKING <br>
 Financial institutions have been investing in blockchains to simplify their record-keeping for payments.
 
 👉🏻SUPPLY CHAIN <br>
