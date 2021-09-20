@@ -2,7 +2,9 @@
 <h1 >Introduction to BlockChain</h1>
 </div>
 
-
+### Resources :-
+👉🏻 http://graphics.reuters.com/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html <br>
+👉🏻 https://en.wikipedia.org/wiki/Blockchain
 
 ## What is  BlockChain ?
 
