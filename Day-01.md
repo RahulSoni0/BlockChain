@@ -7,6 +7,8 @@
 👉🏻Immutability <br>
 👉🏻Transparency <br>
 👉🏻Trustlessness { No worries of Trusting on someone }<br>
-👉🏻Eficiency<br>
+👉🏻Efficiency<br>
 👉🏻Inexpensive<br>
 👉🏻Security<br>
+
+
