@@ -25,7 +25,7 @@ Blockchain is a type of DLT in which transactions are recorded with an immutable
 👉🏻Inexpensive<br>
 👉🏻Security<br>
 
-# Reference :- https://101blockchains.com/why-blockchain-is-important/
+### Reference :- https://101blockchains.com/why-blockchain-is-important/
 <div align="center">
 <img width="100%" height = "800px" src="https://github.com/RahulSoni0/BlockChain/blob/main/Images/Why-Blockchain-is-important.jpg.webp" alt="cover" />
 </div>
