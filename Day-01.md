@@ -32,4 +32,26 @@ Blockchain is a type of DLT in which transactions are recorded with an immutable
 <img width="100%" height = "800px" src="https://github.com/RahulSoni0/BlockChain/blob/main/Images/Why-Blockchain-is-important.jpg.webp" alt="cover" />
 </div>
 
+## Usage of Blockchain
+👉🏻CRYPTOCURRENCY
+Blockchains are the basis of bitcoin and other cryptocurrencies.
 
+👉🏻BANKING
+Financial institutions have been investing in blockchains to simplify their record-keeping for payments.
+
+👉🏻SUPPLY CHAIN
+Recording trades on a blockchain offers a way to check the history of a product. For example, jewelry companies hope it can assure customers that diamonds are not from places where they could finance war.
+
+👉🏻HEALTHCARE
+With blockchain, medical history could be securely stored and controlled by patients.
+
+👉🏻EDUCATION
+with blockchain , education background and history can be stored securely and can be used to verify someones profile/resume
+
+👉🏻VOTING
+Blockchain records could create tamper-proof election returns.
+
+👉🏻PROPERTY RECORDS
+Storing land records on a blockchain could cut down on costly title research and insurance. In politically unstable places, it could help prove ownership.
+
+with blockchain , education background and history can be stored securely and can be used to verify someones profile/resume
