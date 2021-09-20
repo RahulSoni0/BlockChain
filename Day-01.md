@@ -1,5 +1,5 @@
 <div align = "center">
-<h1 >Introduction to BlockChain</h1>
+<h1 >Introduction to Blockchain</h1>
 </div>
 
 ### Resources :-
